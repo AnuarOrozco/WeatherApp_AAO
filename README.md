@@ -9,6 +9,10 @@ The **WeatherApp** is a Java-based GUI application that allows users to search f
 
 This project was developed as part of the academic requirements for the **Software and Network Engineering** program at the **Universidad del Valle de México (UVM)**.
 
+![Weather App SS 1](WeatherApp/src/assets/SS 1 demostration weather app.png)
+
+![Weather App SS 2](WeatherApp/src/assets/SS 2 demostration weather app.png)
+
 ## Functionality
 
 1. **Location Search**: The user can search for weather information by typing the desired location in a search bar.
