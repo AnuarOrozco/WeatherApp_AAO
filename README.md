@@ -42,7 +42,3 @@ The project uses external APIs to fetch weather and location data. Based on the 
 2. **Geolocation API**:  
    This API is used to convert the user’s input (location name) into geographical coordinates (latitude and longitude) required to fetch the weather data.  
    [Geolocation API Documentation](https://open-meteo.com/en/docs/geocoding-api)
-
-## Conclusion
-
-The **WeatherApp** provides a simple yet functional interface for users to check the weather in different locations. By using external APIs, the application integrates real-time data and allows for dynamic updates based on user input. This project was developed as part of the **Software and Network Engineering** program at the **Universidad del Valle de México (UVM)** to demonstrate skills in API integration, Java programming, and graphical user interface development.
